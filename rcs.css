@@ -15409,8 +15409,8 @@ h1.entry-title {
   font-size: 13px;
   border-top-left-radius: 3px;
   border-bottom-left-radius: 3px;
-  background: transparent;
-  width: 180px;
+  background: #eff2f4;
+  width: 650px;
   border-width: 1px;
   border-style: solid;
 }
